@@ -1,0 +1,14 @@
+@use "sass:color"; 
+
+
+.Calendar {
+        background: $background;
+        min-height: 100px;
+        min-width: 100px;
+        border-radius: 20;
+        .Menu {
+            background: $background;
+            color: $foreground;
+            border-radius: 20;
+        }
+    }
