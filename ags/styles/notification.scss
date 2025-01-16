@@ -27,10 +27,10 @@ eventbox.Notification {
     >box {
         min-width: 400px;
         border-radius: 13px;
-        background-color: $bg-color;
+        background-color: $background;
         margin: .5rem 1rem .5rem 1rem;
         box-shadow: 2px 3px 8px 0 gtkalpha(black, .4);
-        border: 1pt solid gtkalpha($fg-color, .03);
+        border: 1pt solid gtkalpha($foreground, .03);
     }
 
     &.critical>box {
@@ -51,7 +51,7 @@ eventbox.Notification {
 
     .header {
         padding: .5rem;
-        color: gtkalpha($fg-color, 0.5);
+        color: gtkalpha($foreground, 0.5);
 
         .app-icon {
             margin: 0 .4rem;
@@ -79,7 +79,7 @@ eventbox.Notification {
 
     separator {
         margin: 0 .4rem;
-        background-color: gtkalpha($fg-color, .1);
+        background-color: gtkalpha($foreground, .1);
     }
 
     .content {
@@ -88,15 +88,15 @@ eventbox.Notification {
 
         .summary {
             font-size: 1.2em;
-            color: $fg-color;
+            color: $foreground;
         }
 
         .body {
-            color: gtkalpha($fg-color, 0.8);
+            color: gtkalpha($foreground, 0.8);
         }
 
         .image {
-            border: 1px solid gtkalpha($fg-color, .02);
+            border: 1px solid gtkalpha($foreground, .02);
             margin-right: .5rem;
             border-radius: 9px;
             min-width: 100px;

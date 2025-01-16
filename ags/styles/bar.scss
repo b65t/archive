@@ -22,8 +22,9 @@ window.Bar {
 
     .Workspaces  {
           background-color: color.adjust($background, $alpha: -0.50);
-          border-radius: 0 0 20 20;
+          border-radius: 20;
           padding: 0 5; 
+          margin: 5 0;
         button {
             all: unset;
 
@@ -43,23 +44,28 @@ window.Bar {
             border: 1.3pt solid $foreground;
             min-width: 10pt;
             min-height: 0pt;
-            margin: 13 2;
+            margin: 12 2;
             font-size: 0;
-            background-color: transparent;
+            background-color: $foreground;
         }
 
         .focused label {
             color: $color1;
             border-color: $color1;
-            background-color: transparent;
+            background-color: $color1;
             min-width: 50pt;
-            min-height: 1pt;
+            min-height: 2pt;
             font-size: 0;
         }
     }
 
     .SysTray {
         margin-right: 8px;
+        background-color: color.adjust($background, $alpha: -0.50);
+        border-radius: 20;
+        margin-top: 5;
+        margin-bottom: 5;
+        margin-right: 5;
 
         button {
             padding: 0 4px;

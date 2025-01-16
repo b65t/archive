@@ -1,18 +1,14 @@
 @use "sass:color"; 
 
-$base00: #080808;
-$base07: #838383;
-$base08: #272727;
-$base05: #696969;
-$base01: #455e5e;
-$base02: #956969;
 
 .Calendar {
-        background: $base00;
+        background: $background;
         min-height: 100px;
         min-width: 100px;
+        border-radius: 20;
         .Menu {
-            background: $base00;
-            color: $base05;
+            background: $background;
+            color: $foreground;
+            border-radius: 20;
         }
     }
