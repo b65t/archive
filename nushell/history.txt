@@ -1,0 +1,1741 @@
+config nu
+nvim ~/.config/nushell/config.nu
+ls ~/.config/nushell/
+rm ~/.config/nushell/history.sqlite3
+rm ~/.config/nushell/history.sqlite3-shm
+rm ~/.config/nushell/history.sqlite3-wal
+fastfetch 
+clear
+config nu
+cd gotest/
+ls
+clear
+l
+ls
+go run values.go
+helix test.go
+go run test.go
+helix test.go
+go run test.go
+helix test.go
+go run test.go
+helix test.go
+go run test.go
+helix test.go
+go run test.go
+helix test.go
+go run test.go
+helix test.go
+go run test.go
+helix test.go
+go run test.go
+helix test.go
+go run test.go
+helix test.go
+go run test.go<\n>
+cd gotest/
+go run test.go<\n>
+go run test.go
+go run test.go<\n>
+go run test.go
+go run test.go<\n>
+helix test.go
+go run test.go<\n>
+go run test.go
+nvim test.go
+mkdir go fetch
+ls
+ls go
+rm fetch/
+mkdir gofetch
+cd gofetch/
+c
+nvim main.go
+go run main.go
+nvim main.go
+go run main.go
+nvim main.go
+go run main.go
+nvim main.go
+go run main.go
+ls /etc/
+ls /etc/os-release
+cat /etc/os-release
+nvim main.go
+nvim distro.go
+go run main.go
+nvim distro.go
+nvim main.go
+go run main.go
+nvim main.go
+go run main.go
+nvim main.go
+go run main.go
+nvim main.go
+go run main.go
+nvim main.go
+go run main.go
+nvim main.go
+helix ~/.config/kitty/kitty.conf
+fastfetch 
+c
+fastfetch 
+c
+fastfetch 
+c
+f
+fastfetch 
+f
+fastfetch 
+nvim ~/.config/kitty/kitty.conf
+go run main.go
+nvim main.go
+go run main.go
+nvim main.go
+go run distro.go
+nvim main.go
+go run distro.go
+nvim main.go
+go run distro.go
+c
+doas pacman -S nwg-dock-hyprland
+c
+cd
+c
+nvim ~/.config/nwg-dock-hyprland/style.css
+nvim ~/.config/waybar/style.css
+nwg-dock-hyprland
+nvim ~/.config/nwg-dock-hyprland/style.css
+nwg-dock-hyprland
+nvim ~/.config/nvim/init.lua
+nvim ~/.config/nvim/lazy-lock.json
+nvim ~/.config/nvim/lua/islam/lazy.lua
+nvim ~/.config/nvim/lua/islam/plugins/
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/
+nvim ~/.config/nvim/lua/islam/plugins/indent-blankline.lua
+nvim ~/.config/nvim/lua/islam/
+nvim ~/.config/nvim/lua/islam/plugins/indent-blankline.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/indent-blankline.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/indent-blankline.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/indent-blankline.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/indent-blankline.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/indent-blankline.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/indent-blankline.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/
+nvim ~/.config/nvim/lua/islam/plugins/cmdline.lua
+rm ~/.config/nvim/lua/islam/plugins/cmdline.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.nvim
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+c
+ls
+c
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/
+nvim ~/.config/nvim/lua/islam/
+nvim ~/.config/nvim/lua/islam/plugins/
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/snacks-anim.lua
+nvim ~/.config/nvim/lua/islam/plugins/snacks-scroll.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/theme.lua
+nvim ~/.config/nvim/lua/islam/
+nvim ~/.config/nvim/lua/islam/plugins/bufferline.lua
+c
+nvim ~/.config/nvim/lua/islam/plugins/bufferline.lua
+nvim
+rm ~/.config/nvim/lua/islam/plugins/alpha.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim ~/.config/nvim/lua/islam/plugins/theme.lua
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/bufferline.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/theme.lua
+nvim ~/.config/nvim/lua/islam/
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim ~/.config/nvim/lua/islam/plugins/colorizer.lua
+nvim ~/.config/waybar/bars/bar5/style.css
+nvim ~/.config/nvim/lua/islam/plugins/bufferline.lua
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim ~/.config/nvim/lua/islam/plugins/bufferline.lua
+nvim ~/.config/nvim/lua/islam/core/keymaps.lua
+nvim ~/.config/nvim/lua/islam/plugins/bufferline.lua
+nvim ~/.config/nvim/lua/islam/core/options.lua
+nvim ~/.config/nvim/lua/islam/plugins/bufferline.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+fastfetch 
+c
+nvim
+c
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/waybar/bars/bar5/modules
+nvim ~/.config/waybar/bars/bar5/config
+nvim ~/.config/waybar/bars/bar5/modules
+doas pacman -S xmonad
+clear
+ls
+fastfetch 
+clear
+fastfetch 
+pkill xmonad
+ls ~/.config/fontconfig/fonts.conf
+c
+doas pacman -S noto-sans
+doas pacman -S noto-fonts
+ls ~/.config/xmonad/
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+xterm 
+xterm
+nvim ~/.config/xmonad/xmonad.hs
+doas pacman -S xmonad
+doas pacman -Rns xmonad
+doas pacman -S xmonad-contrib
+doas pacman -S xmonad
+doas pacman -S xmonad-contrib
+doas pacman -S xmonad
+pkill waybar
+nvim ~/.config/ags/
+mkdir ~/.config/ags/modules/osd
+nvim ~/.config/ags/
+nvim ~/.config/ags/modules/osd/OSD.tsx
+nvim ~/.config/ags/modules/osd/brightness.ts
+nvim ~/.config/ags/styles/OSD.scss
+nvim ~/.config/ags/styles/style.scss
+ags run
+pkill gjs
+ags quit
+pkill gjs
+ags quit
+ags run
+pkill gjs
+pkill ags
+pkill gjs
+ags run
+pkill ags
+ags run
+pkill gjs
+pkill ags
+pkill gjs
+pkill ags
+pkill gjs
+nvim ~/.config/ags/app.ts
+nvim ~/.config/nvim/lua/islam/plugins/autopairs.lua
+nvim ~/.config/xmonad/xmonad.hs
+xmonad
+nvim ~/.config/xmonad/xmonad.hs
+nvim
+nvim ~/.config/xmonad/xmonad.hs
+doas pacman -S xmonad-contrib
+mkdir -p ~/.xmonad<\n>cd ~/.xmonad<\n>nvim xmonad.hs<\n>xmonad --recompile
+mkdir ~/.xmonad<\n>cd ~/.xmonad<\n>nvim xmonad.hs<\n>xmonad --recompile
+ls
+clear
+nvim xmonad.hs
+xmonad --recompile<\n>
+xmonad --recompile
+c
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+echo 3 | doas tee /proc/sys/vm/drop_caches
+fastfetch 
+xmonad
+nvim xmonad.hs
+nvim ~/.config/xmonad/xmonad.hs
+nvim xmonad.hs
+xmonad --recompile
+xmonad
+starx
+startx
+xmonad
+startx xmonad
+nvim .xinitrc
+c
+xmonad
+starx
+xmonad --recompile
+ls
+nvim xmonad.hs
+x
+cd
+clear
+doas pacman -S xmonad-contrib
+doas pacman -S lbi4
+doas pacman -S xmonad-contrib
+doas pacman -S xmonad xmonad-contrib
+doas pacman -Syu
+doas pacman -S xmonad xmonad-contrib
+cd gofetch/
+cd
+ls
+cd .xmonad/
+xmonad --recompile
+pkill startx
+pkill x
+startx
+xmonad
+startx
+pkill xmonad
+xmonad
+pkill xmonad
+xmonad
+nvim xmonad.hs
+ls
+cd .xmonad/
+nvim xmonad.hs
+clear
+c
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+nvim ~/.config/xmonad/xmonad.hs
+nvim xmonad.hs
+xmonad --recompile
+xmonad
+rm ~/.config/xmonad/
+rm -rf ~/.config/xmonad/
+xmonad
+btop
+xmonad
+ls
+rm build-x86_64-linux/
+rm -rf build-x86_64-linux/
+rm -rf xmonad-x86_64-linux
+xmonad --recompile
+ls
+pkill x
+startx
+nvim xmonad.errors
+cd
+echo "exec xmonad" >> ~/.xinitrc
+nvim .
+nvim .xinitrc
+quit
+clear
+waybar
+clear
+pkill xmonad
+cd .xmonad/
+pkill startx
+startx
+nvim xmonad.hs
+cd
+doas pacman -S polybar
+nvim .xinitrc
+doas pacman -S nitrogen
+cd .xmonad/
+nvim xmonad.hs
+nvim ~/.xinitrc
+picom
+doas pacman -S picom
+polybar
+pkill x
+startx
+xmonad --recompile
+pkill x
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+pkill x
+startx
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+startx
+nvim xmonad.hs
+startx
+xmonad --recompile
+c
+fastfetch 
+clear
+fastfetch 
+c
+fastfetch 
+c
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+picom
+doas pacman -S picom
+ls /etc/xdg/picom.conf
+mkdir ~/.config/picom
+cp /etc/xdg/picom.conf ~/.config/picom/
+startx
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+fastfetch 
+pkill x
+startx
+nvim xmonad.hs
+startx
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+xmonad --recompile
+nvim xmonad.hs
+c
+fastfetch 
+c
+fastfetch 
+c
+xmonad --recompile
+mkdir ~/.config/polybar
+nvim ~/.config/polybar/config.ini
+fastfetch 
+c
+pkill xmonad
+startx
+nvim ~/.config/polybar/config.ini
+pkill polybar
+polybar
+nvim ~/.config/polybar/config.ini
+polybar
+nvim ~/.config/polybar/config.ini
+polybar
+nvim ~/.config/picom/picom.conf
+polybar
+startx
+nvim ~/.config/picom/picom.conf
+nvim ~/.config/polybar/config.ini
+polybar
+pkill polybar
+polybar
+cd .xmonad/
+nvim xmonad.hs
+pkill xmonad
+nvim xmonad.hs
+xmonad --recompile
+nvim ~/.config/polybar/config.ini
+startx
+nvim ~/.config/polybar/config.ini
+pkill xmonad
+startx
+fastfetch 
+nvim ~/.config/polybar/config.ini
+startx
+rm .xinitrc
+clear
+nvi
+clear
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+nvim ~/.config/nvim/lua/islam/plugins/
+doas pacman -S lua-language-serve
+git clone https://github.com/LuaLS/lua-language-server<\n>cd lua-language-server
+ls
+./make.sh
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+doas pacman -S lua-language-serve
+doas pacman -S lua-language-server
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+nvim ~/.config/nvim/lua/islam/core/options.lua
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+doas pacman -S vscode-css-languageserver
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+nvim ~/.config/waybar/bars/bar5/modules
+nvim ~/.config/waybar/bars/bar5/style.css
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+doas pacman -S bash-language-server
+nvim
+doas pacman -S bash-language-server
+nvim ~/.config/waybar/bars/bar5/style.css
+nvim
+xsa
+xla
+cd
+nvim
+cd
+fastfetch 
+clear
+fastfetch 
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+nvim ~/.config/scripts/nu/waybar.nu
+nvim ~/.config/scripts/nu/partial-screenshot.nu
+nvim ~/.config/scripts/nu/screenshot.nu
+nvim ~/.config/scripts/nu/hyprpicker.nu
+nvim ~/.config/scripts/sh/swww-switcher.sh
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/
+nvim ~/.config/nvim/lua/islam/plugins/telescope.lua
+nvim ~/.config/nvim/lua/islam/core/keymaps.lua
+clear
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim ~/.config/nvim/lazy-lock.json
+config nu
+lsblk
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+nvim ~/.config/nvim/lua/islam/plugins/lazydev
+nvim ~/.config/nvim/lua/islam/plugins/lazydev.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/lazydev.lua
+nvim ~/.config/nvim/lua/islam/plugins/
+nvim ~/.config/nvim/lua/islam/plugins/lazydev.lua
+rm ~/.config/nvim/lua/islam/plugins/lazydev.lua
+nvim ~/.config/nvim/lua/islam/plugins/lazydev.lua
+nvim ~/.config/nvim/lua/islam/plugins/init.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmp.lua
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+nvim ~/.config/nvim/lua/islam/plugins/init.lua
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+nvim ~/.config/nvim/lua/islam/plugins/init.lua
+nvim ~/.config/nvim/lua/islam/plugins/nil.lua
+rm ~/.config/nvim/lua/islam/plugins/nil.lua
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+rm ~/.config/nvim/lua/islam/plugins/nil.lua
+nvim ~/.config/nvim/lua/islam/plugins/init.lua
+nvim ~/.config/nvim/lua/islam/plugins/cmp.lua
+doas pacman -S fuzzy
+nvim ~/.config/nvim/lua/islam/plugins/cmp.lua
+rm ~/.config/nvim/lua/islam/plugins/cmp.lua
+rm ~/.config/nvim/lua/islam/plugins/coq.lua
+nvim ~/.config/nvim/lua/islam/plugins/coq.lua
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+nvim ~/.config/nvim/lua/islam/plugins/coq.lua
+rm ~/.config/nvim/lua/islam/plugins/coq.lua
+nvim ~/.config/nvim/lua/islam/plugins/coq.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/cmp.lua
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+ls
+nvim ~/.config/nvim/lua/islam/plugins/lspconfig.lua
+nvim
+poweroff
+flatpak install flathub net.lutris.Lutris
+doas pacman -S flatpak
+flatpak install flathub net.lutris.Lutris
+nvim ~/.config/waybar
+nvim ~/.config/nvim/lua/islam/plugins/theme.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/theme.lua
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+ls /var/log
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/nvim/lua/islam/plugins/
+nvim
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+nvim ~/.config/nvim/lua/islam/plugins/noice.lua
+reboot
+flatpak run flathub net.lutris.Lutris
+flatpak run flathub lutris.Lutris
+flatpak run net.lutris.Lutris
+doas pacman -S xdg-portal
+doas pacman -S xdg-desktop-portal
+sudo pacman -S xdg-desktop-portal-gtk
+doas pacman -S xdg-desktop-portal-gtk
+flatpak run net.lutris.Lutris
+flatpak info --show-permissions net.lutris.Lutris
+doas pacman -S lutris
+doas pacman -R lutris
+flatpak info --show-permissions net.lutris.Lutris
+flatpak run net.lutris.Lutris
+doas pacman -S xdg-desktop-portal-wlr
+flatpak run net.lutris.Lutris
+doas pacman -S lutris
+lutris
+doas pacman -S wine
+flatpak run net.lutris.Lutris
+doas pacman -R lutris
+nvim ~/.config/nvim/lua/islam/plugins/dashboard.lua
+mkdir ~/games
+ls games/
+ls `games/NEEDY STREAMER OVERLOAD/`
+ls /home/islam/games/NEEDY\ STREAMER\ OVERLOAD/
+wine `games/NEEDY STREAMER OVERLOAD/Windose.exe`
+flatpak install flathub com.github.tchx84.Flatseal
+yay -S swayfx
+fastfetch 
+clear
+fastfetch 
+c
+fastfetch 
+ls /home/islam/games/NEEDY\ STREAMER\ OVERLOAD/
+ls /home/islam/games/NEEDYSTREAMEROVERLOAD/
+ls /home/islam/games/NEEDYSTREAMEROVERLOAD/MonoBleedingEdge/
+ls /home/islam/games/NEEDYSTREAMEROVERLOAD/Windose.exe
+ls /home/islam/games/NEEDYSTREAMEROVERLOAD/
+yay -S protonsarek
+doas pacman -S proton
+doas pacman -S steam
+reboot
+doas pacman -R alacritty
+yay -S proton
+yay -S proton-bin
+nvim ~/.config/hypr/hyprland.conf
+doas pacman -S wine
+c
+cp ~/.config/waybar/bars/bar5/ ~/.config/waybar/bars/bar6
+cp -r ~/.config/waybar/bars/bar5/ ~/.config/waybar/bars/bar6
+ls ~/.config/waybar/bars/
+yay -S protonplus
+nvim ~/.config/waybar/style.css
+nvim ~/.config/waybar/config
+fastfetch 
+nvim ~/.config/waybar/config
+nvim ~/.config/waybar/bars/bar6/config
+nvim ~/.config/waybar/bars/bar6/style.css
+nvim ~/.config/waybar/bars/bar6/modules
+nvim ~/.config/waybar/bars/bar6/style.css
+nvim ~/.config/hypr/hyprland.conf
+fastfetch 
+nvim ~/.config/swaync/
+fastfetch 
+mkdir ~/.config/swaync/nc
+mkdir ~/.config/swaync/nc/1
+cp ~/.config/swaync/style.css ~/.config/swaync/nc/1/
+cp ~/.config/swaync/config.json ~/.config/swaync/nc/1/
+ls ~/.config/swaync/nc/1/
+nvim ~/.config/waybar/bars/bar6/modules
+nvim ~/.config/hypr/hyprland.conf
+fastfetch 
+c
+nvim ~/.config/waybar/bars/bar6/modules
+nvim ~/.config/waybar/bars/bar6/style.css
+fastfetch 
+nvim ~/.config/waybar/bars/bar6/modules
+nvim ~/.config/waybar/bars/bar6/style.css
+ls ~/.config/swaync/nc/1/
+cp -r ~/.config/swaync/nc/1 ~/.config/swaync/nc/2
+ls ~/.config/swaync/nc/
+nvim ~/.config/swaync/nc/2/style.css
+cd ~/.config/swaync/nc/2/
+nvim ../../../../.cache/wal/colors-waybar.css
+cd
+nvim ~/.config/waybar/style.css
+nvim ~/.config/swaync/style.css
+pkill swaync
+swaync
+nvim ~/.config/swaync/style.css
+swaync
+nvim ~/.config/swaync/style.css
+nvim ~/.config/swaync/nc/1/style.css
+swaync
+nvim ~/.config/swaync/style.css
+swaync
+pkill swaync
+swaync
+nvim ~/.config/swaync/nc/2/style.css
+c
+nvim ~/.config/hypr/hyprland.conf
+fastfetch 
+c
+hyprlock
+yay -S osu-lazer-bin
+nvim ~/.config/waybar/bars/bar6/modules
+doas pacman -S labwc
+doas pacman -R labwc
+fastfetch 
+nvim ~/.config/waybar/bars/bar6/modules
+clear
+fastfetch -c all
+doas pacman -R prismlauncher
+doas pacman -S prismlauncher
+echo '{"accounts": [{"entitlement": {"canPlayMinecraft": true,"ownsMinecraft": true},"type": "MSA"}],"formatVersion": 3}' > ~/.local/share/PrismLauncher/accounts.json
+poweroff
+doas pacman -S openbox
+doas pacman -S xterm
+c
+rofi -show drun
+polybar
+ls /etc/xdg/openbox/
+cp /etc/xdg/openbox/ ~/.config/
+cp -r /etc/xdg/openbox/ ~/.config/
+nvim ~/.config/polybar/config.ini
+polybar
+nvim ~/.config/polybar/config.ini
+nvim /etc/xdg/eww/
+polybar
+doas pacman -S tant2
+polybar
+doas pacman -S tint2
+tint
+rofi -show drun
+nvim ~/.config/openbox/autostart
+nvim ~/.config/openbox/menu.xml
+nvim ~/.config/openbox/autostart
+nvim ~/.config/openbox/menu.xml
+pkill openbox
+cp /etc/xdg/eww/ ~/.config/eww
+mkdir ~/.config/eww
+cp /etc/xdg/eww/ ~/.config/eww
+cp -r /etc/xdg/eww/ ~/.config/eww
+eww
+eww daemon
+ls ~/.config/eww/
+rm ~/.config/eww/
+rm -rf ~/.config/eww/
+cp -r /etc/xdg/eww/ ~/.config/eww
+eww daemon
+eww
+eww kill
+eww daemon
+clear
+nwg-dock-hyprland
+nvim ~/.config/nwg-dock-hyprland/style.css
+nwg-dock-hyprland
+ls ~/.config/nwg-dock-hyprland/
+nwg-dock-hyprland
+nvim ~/.config/nwg-dock-hyprland/style.css
+mv ~/.config/nwg-dock-hyprland/style.css ~/.config/nwg-dock-hyprland/style.css.bak
+nvim ~/.config/nwg-dock-hyprland/style.css
+nwg-dock-hyprland
+nwg-dock-hyprland -r
+nwg-dock-hyprland -d
+nwg-dock-hyprland -h
+nwg-dock-hyprland -x
+nwg-dock-hyprland -f
+nwg-dock-hyprland -a
+nwg-dock-hyprland -hd
+nwg-dock-hyprland -d
+rm -rf ~/.config/nwg-dock-hyprland/style.css
+mv ~/.config/nwg-dock-hyprland/style.css.bak ~/.config/nwg-dock-hyprland/style.css
+nwg-dock-hyprland -d
+nvim ~/.config/nwg-dock-hyprland/nwg-dock-pinned
+nwg-dock-hyprland -d
+rm -rf ~/.config/nwg-dock-hyprland/nwg-dock-pinned
+nwg-dock-hyprland -d
+nvim ~/.config/nwg-dock-hyprland/style.css
+nwg-dock-hyprland -h
+nwg-dock-hyprland -l
+nwg-dock-hyprland -ml
+nwg-dock-hyprland -p right
+nwg-dock-hyprland -d -p right
+hyprpm add https://github.com/hyprwm/hyprland-plugins
+hyprpm lsit
+hyprpm l
+hyprpm -l
+hyprpm list
+c
+rm ~/.config/openbox/menu.xml
+yay -S obmenu-generator
+rofi -show drun
+doas pacman -S menumaker
+mmaker openbox
+mmaker -h
+mmaker openbox -t kitty
+doas pacman -Rns menumaker
+doas pacman -Rns menumaker openbox
+doas pacman -Rns openbox tint2
+doas pacman -Rns openbox tint2 obmenu-generator
+c
+fastfetch
+c
+fastfetch
+c
+fastfetch
+c
+fastfetch
+c
+fastfetch
+pkill waybar
+ls ~/.config/ags/
+ags run
+pkill gjs
+pkill ags
+ags quit
+pkill ags
+pkill gjs
+waybar
+nvim ~/.config/rofi/theme.rasi
+cp ~/.config/hypr/pp.jpg ~/.config/waybar/
+nvim ~/.config/waybar/bars/bar6/style.css
+mv ~/.config/waybar/pp.jpg ~/.config/waybar/pp.svg
+nvim ~/.config/waybar/bars/bar6/style.css
+nvim ~/.config/waybar/bars/bar6/modules
+mv ~/.config/waybar/pp.svg ~/.config/waybar/pp.jpg
+nvim ~/.config/waybar/bars/bar6/style.css
+clear
+fastfetch
+cp ~/.config/waybar/bars/bar6/ ~/.config/waybar/bars/bar7
+cp -r ~/.config/waybar/bars/bar6/ ~/.config/waybar/bars/bar7
+ls ~/.config/waybar/bars/
+nvim ~/.config/waybar/bars/bar6/style.css
+nvim ~/.config/waybar/bars/bar5/modules
+nvim ~/.config/waybar/bars/bar6/modules
+nvim ~/.config/waybar/style.css
+nvim ~/.config/waybar/config
+nvim ~/.config/waybar/bars/bar7/config
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/waybar/bars/bar7/config
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/waybar/bars/bar7/config
+nvim ~/.config/waybar/bars/bar7/style.css
+fastfetch
+clear
+fastfetch
+nvim ~/.config/waybar/bars/bar7/style.css
+fastfetch
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/waybar/bars/bar2/style.css
+nvim ~/.config/waybar/bars/bar7/style.css
+waybar
+nvim ~/.config/waybar/bars/bar7/config
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/hypr/hyprland.conf
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/waybar/bars/bar2/style.css
+waybar
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/waybar/bars/bar2/style.css
+nvim ~/.config/waybar/bars/bar7/style.css
+clear
+rm ~/.config/waybar/pp.jpg
+ls ~/Downloads/
+mv ~/Downloads/999505c68f4e14c7a17e2585131a3e5f.jpg ~/.config/waybar/pp.jpg
+nvim ~/.config/waybar/bars/bar7/style.css
+doas pacman -Syu
+nvim ~/.config/waybar/bars/bar7/config
+poweroff
+fastfetch
+fastfetch -c all
+mkdir `~/games/Stardew Valley/`wine
+nvim ~/.config/waybar/bars/bar7/style.css
+poweroff
+history | count
+history count
+history -h
+history
+history | length
+clear
+c
+fastfetch
+doas pacman -Syu
+fastfetch
+clear
+ls ~/.config/waybar/bars/
+/var/lib/AccountsService/icons/$USER
+ls /var/lib/AccountsService/icons/$USER
+yay -S swayfx
+swayfx
+sway
+yay -S swayfx
+c
+nvim ~/.config/waybar/bars/bar7/style.css
+clear
+fastfetch
+clear
+fas
+fastfetch
+clear
+fastfetch
+sway
+clear
+nvim ~/.config/waybar/bars/bar7/style.css
+sway
+reboot
+rm ~/.config/hypr/pp.jpg
+cp ~/Downloads/aec734a03b97d4b48ec704e0d0ba7156.jpg ~/.config/hypr/pp.jpg
+hyprlock
+nvim ~/.config/waybar/bars/bar7/style.css
+hyprlock
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/waybar/bars/bar7/config
+waybar
+hyprlock
+nvim ~/.config/waybar/bars/bar7/style.css
+rm ~/.config/waybar/pp.jpg
+ls
+clear
+ls
+clear
+waybar
+nvim ~/.config/waybar/bars/bar7/style.css
+clear
+cl
+c
+cc
+c
+fastfetch
+c
+fastfetch
+c
+fastfetch
+c
+fastfetch
+c
+fastfetch
+c
+hyprlock
+c
+doas pacman -S ufw
+systemctl enabe ufw
+systemctl enable ufw
+clear
+fastfetch
+clear
+nvim /etc/hostname
+doas nvim /etc/hostname
+fastfetch
+doas nvim /etc/hostname
+clear
+fastfetch
+fastfetch
+clear
+fastfetch
+nvim ~/.config/swaync/config.json
+poweroff
+spotif
+spotify
+spotify-launcher 
+rm -rf ~/.cache/spotify/
+poweroff
+clear
+nvim test
+rm -rf test
+mkdir test
+cd test
+clear
+nvim test.c
+gcc test.c
+nvim test.c
+clear
+gcc test.c
+mv test.c test.cp
+nvim test.cp
+nvim test.cpp
+mv test.cp test.cs
+nvim test.cs
+mv test.cs test.c
+nvim test.c
+gcc test.c
+nvim test.c
+clear
+doas pacman -S gtk
+doas pacman -S gtk3
+doas pacman -S gtk4
+pkg-config --exists gtk4
+pkg-config
+pkg-config gtk4
+clear
+gcc test.c -o test
+gcc test.c -o test `pkg-config --cflags --libs gtk3`
+ls /usr/include/gtk-4.0/gtk/gtk.h
+gcc test.c -o test -I/usr/include/gtk-4.0 -L/usr/lib -lgtk-4
+clear
+doas pacman -S tcc
+tcc test.c
+cd
+rm test/
+rm -rf test
+clear
+mkdir test
+cd test
+nvim test.py
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+fastfetch
+clear
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+pip install psutil
+doas pacman -S psutil
+doas pacman -S python-psutil
+py test.py<\n>
+py test.py
+nvim test.py
+py test.py
+nvim test.py
+fastfetch
+clear
+py test.py
+nvim test.py
+clear
+yay -S osu-bin
+flatpak install flathub sh.ppy.osu
+fastfetch
+clear
+fastfetch
+c
+ls ~/Downloads/
+file-roller ~/Downloads/OMORI-SteamRIP.com.rar
+c
+ls ~/Downloads/
+file-roller ~/Downloads/Geometry-Dash-SteamRIP.com.rar
+doas pacman -S wayfire
+doas rm -rf /var/lib/pacman/db.lck
+doas pacman -S wayfire
+wayfire 
+c
+doas pacman -S wayfire
+pacman
+yay -S wayfire
+doas pacman -S wayfire
+doas rm -rf /var/lib/pacman/db.lck
+yay -S wayfire
+wayfire 
+ls ~/.cache/wal
+nvim ~/.cache/wal/colors.css
+nvim ~/.cache/wal/colors-waybar.css
+wayfire 
+clear
+ls /etc/xdg/wayfire
+doas pacman -S labwc
+mkdir ~/.config/labwc
+labwc
+nvim ~/.config/labwc/menu.xml
+labwc --reconfigure
+rm ~/.config/labwc/menu.xml
+fastfetch
+clear
+fastfetch
+labwc
+labwc -s kitty
+nvim ~/.config/labwc/menu.xml
+firefox
+exit
+clear
+fastfetch
+c
+nvim ~/.config/labwc/rc.xml
+rofi -show drun
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/waybar/bars/bar7/modules
+~/.config/scripts/nu/waybar.nu
+nvim ~/.config/waybar/bars/bar7/modules
+wayfire 
+waybar
+nvim ~/.config/waybar/bars/bar7/modules
+waybar
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar7/config
+waybar
+nvim ~/.config/waybar/bars/bar7/config
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar7/config
+hyprpm list
+poweroff
+doas pacman -R wayfire
+yay -S wayfire
+yay -S wayfire-git
+yay -S wayfire
+doas pacman -Rns wayfire
+ls
+rm ~/.cache/yay/wayfire/
+rm -rf ~/.cache/yay/wayfire/
+rm -rf ~/.cache/yay/wayfire-git/
+yay -S wayfire
+wayfire 
+wayfire
+rm -rf ~/.cache/yay/wayfire/
+wayfire
+yay -S wayfire
+pacman -Qo /usr/src/debug/wayfire/wayfire-0.9.0/subprojects/wf-utils/wayfire/action/action.cpp
+sudo rm -rf /usr/src/debug/wayfire/wayfire-0.9.0/
+doas rm -rf /usr/src/debug/wayfire/wayfire-0.9.0/
+yay -S wayfire
+ls -l /usr/src/debug/wayfire/wayfire-0.9.0/
+doas rm -rf /usr/src/debug/
+yay -S wayfire
+nvim ~/.config/waybar/style.css
+nvim ~/.config/waybar/config
+nvim ~/.config/waybar/style.css
+nvim ~/.config/waybar/config
+nvim ~/.config/waybar/style.css
+nvim ~/.config/waybar/config
+pacman -U /home/islam/.cache/yay/wayfire/wayfire-0.9.0-1-x86_64.pkg.tar.zst
+doas pacman -U /home/islam/.cache/yay/wayfire/wayfire-0.9.0-1-x86_64.pkg.tar.zst
+wayfire
+doas pacman -Rns wayfire
+nvim /etc/makepkg.conf
+doas nvim /etc/makepkg.conf
+yay -S wayfire
+doas pacman -Rns wayfire
+rm -rf ~/.cache/yay/wayfire/
+doas pacman -Rns wayfire
+yay -S wayfire
+yay -S wayfire-git
+ls ~/.cache/yay/wayfire/PKGBUILD
+nvim ~/.cache/yay/wayfire/PKGBUILD
+clear
+fastfetch
+clear
+fastfetch
+clear
+yay -S wayfire-git
+curl https://mirror.cachyos.org/cachyos-repo.tar.xz -o cachyos-repo.tar.xz<\n>tar xvf cachyos-repo.tar.xz && cd cachyos-repo<\n>sudo ./cachyos-repo.sh
+clear
+doas pacman -S wayfire
+wayfire
+rm -rf /usr/share/wayfire/
+doas rm -rf /usr/share/wayfire/
+doas pacman -S wayfire
+wayfire
+pkill wayfire
+wayfire
+c
+ls /etc/xdg/wayfire
+ls ~/.config/wayfire
+doas pacman -S wf-shell
+ls ~/.config/wayfire
+ls ~/.config/wf-shell/
+wayfire
+ls /etc/xdg/wayfire
+mkdir ~/.config/wayfire
+wayfire
+nvim ~/.config/wayfire/wayfire.ini
+pkill wayfire
+mv ~/.config/wayfire/wayfire.ini ~/.config/
+pkill wayfire
+wayfire
+nvim ~/.config/wayfire.ini
+nvim ~/.config/hypr/hyprland.conf
+nvim ~/.config/wayfire.ini
+wayfire
+nvim ~/.config/wayfire.ini
+nvim ~/.config/hypr/hyprland.conf
+nvim ~/.config/wayfire.ini
+fastfetch
+clear
+fastfetch
+clear
+nvim ~/.config/wayfire.ini
+rofi -show drun
+nvim ~/.config/waybar/bars/bar7/modules
+waybar
+rofi -show drun
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar7/config
+nvim ~/.config/wayfire.ini
+rofi -show drun
+nvim ~/.config/wayfire.ini
+nvim ~/.config/waybar/bars/bar7/config
+hyprpm add https://github.com/KZDKM/Hyprspace<\n>hyprpm enable Hyprspace
+hyprpm enable Hyprspace
+hyprpm list
+hyprpm help
+hyprpm remove hyprspace
+hyprpm remove Hyprspace
+hyprpm add https://github.com/KZDKM/Hyprspace<\n>hyprpm enable Hyprspace
+overview:toggle
+nvim ~/.config/hypr/hyprland.conf
+hyprpm list
+nvim ~/.config/hypr/hyprland.conf
+hyprctl plugin load
+nvim ~/.config/hypr/hyprland.conf
+hyprctl overview:toggle
+nvim ~/.config/hypr/hyprland.conf
+hyprctl dispatch overview:toggle
+nvim ~/.config/hypr/hyprland.conf
+hyprpm disable Hyprspace
+hyprpm list
+hyprpm enable hyprexpo
+hyrpctl reload
+hyprctl reload
+nvim ~/.config/hypr/hyprland.conf
+hyprpm list
+nvim ~/.config/hypr/hyprland.conf
+hyprpm disable hyprexpo
+hyprpm list
+hyprpm enable hyprbars
+hyprpm help
+hyprpm reload
+hyprctl reload
+nvim ~/.config/hypr/hyprland.conf
+hyprpm help
+hyprpm update
+poweroff
+doas pacman -S conky
+c
+conky
+conky -h
+conky -c
+conky --display=wayland
+conky
+conky.config
+mkdir ~/.config/conky
+nvim ~/.config/conky/conky.conf
+conky
+nvim ~/.config/conky/conky.conf
+conky
+nvim ~/.config/conky/conky.conf
+conky
+nvim ~/.config/conky/conky.conf
+conky
+nvim ~/.config/conky/conky.conf
+conky
+nvim ~/.config/conky/conky.conf
+conky
+nvim ~/.config/conky/conky.conf
+conky
+nvim ~/.config/conky/conky.conf
+rm -rf ~/.config/conky/
+cp -r ~/.config/waybar/bars/bar7/ ~/.config/waybar/bars/sidebar1
+clear
+nvim ~/.config/waybar/config
+nvim ~/.config/waybar/style.css
+nvim ~/.config/waybar/bars/sidebar1/config
+waybar
+nvim ~/.config/waybar/bars/sidebar1/style.css
+nvim ~/.config/waybar/bars/sidebar1/config
+waybar
+nvim ~/.config/waybar/bars/sidebar1/style.css
+nvim ~/.config/waybar/bars/sidebar1/config
+nvim ~/.config/waybar/bars/sidebar1/style.css
+waybar
+nvim ~/.config/waybar/bars/sidebar1/config
+nvim ~/.config/waybar/bars/sidebar1/style.css
+nvim ~/.config/waybar/bars/sidebar1/config
+nvim ~/.config/waybar/bars/sidebar1/modules
+nvim ~/.config/waybar/bars/sidebar1/config
+waybar
+nvim ~/.config/waybar/config
+nvim ~/.config/waybar/style.css
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar6/modules
+nvim ~/.config/waybar/bars/bar5/modules
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/swaync/style.css
+nvim ~/.config/hypr/hyprland.conf
+nvim ~/.config/nvim/lua/islam/plugins/lualine.lua
+nvim ~/.config/scripts/sh/cava.sh
+nvim ~/.config/hypr/hyprland.conf
+clear
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+nvim ~/.config/hypr/hyprland.conf
+fastfetch
+cclear
+c
+fastfetch
+clear
+fastfetch
+clear
+nvim ~/.config/starship.toml
+nvim ~/.config/hypr/hyprland.conf
+fastfetch
+nvim ~/.config/swaync/style.css
+nvim ~/.config/sway/config
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+clear
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar7/config
+nvim ~/.config/sway/config
+nvim ~/.config/waybar/bars/bar7/config
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar7/style.css
+fastfetch
+nvim ~/.config/waybar/bars/bar7/modules
+fastfetch
+clear
+fastfetch
+nvim ~/.config/sway/config
+nvim ~/.config/sway/config
+clear
+fastfetch
+nvim ~/.config/sway/config
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar7/config
+clear
+fastfetch
+clear
+fastfetch
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar7/config
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar7/config
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar7/config
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/waybar/bars/bar7/modules
+doas pacman -S sway
+nvim ~/.config/waybar/bars/bar7/config
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/sway/config
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/waybar/bars/bar7/modules
+fastfetch
+nvim ~/.config/sway/config
+fastfetch
+swaymsg -t get_tree
+clear
+swaymsg -t get_tree
+nvim ~/.config/sway/config
+nvim ~/.config/waybar/bars/bar5/modules
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar7/style.css
+nvim ~/.config/waybar/bars/bar7/modules
+nvim ~/.config/waybar/bars/bar5/modules
+nvim ~/.config/waybar/bars/bar7/modules
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+c
+fastfetch
+c
+fastfetch
+c
+fastfetch
+fastfetch -c all
+rm -rf ~/.config/waybar/bars/sidebar1/
+c
+nvim ~/.config/sway/config
+fastfetch
+c
+fastfetch
+c
+fastfetch
+fastfetch -c all
+nvim
+clear
+ls ~/.config/waybar/bars/
+c
+fastfetch -c all
+nvim ~/.config/sway/config
+fastfetch -c all
+clear
+fastfetch
+nvim ~/.config/fastfetch/config.jsonc
+nvim ~/.config/fastfetch/frieren.txt
+nvim ~/.config/fastfetch/config.jsonc
+fastfetch
+clear
+fastfetch
+nvim ~/.config/fastfetch/config.jsonc
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+nvim ~/.config/sway/config
+c
+btop
+fastfetch
+c
+fastfetch
+c
+fastfetch
+nvim ~/.config/sway/config
+fastfetch
+clear
+fastfetch
+nvim ~/.config/sway/config
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+clear
+nmtui 
+mv ~/Downloads/aec734a03b97d4b48ec704e0d0ba7156.jpg ~/Downloads/pfp/
+mv ~/Downloads/c73038ed5a77204350a3c257c2591deb.jpg ~/Downloads/pfp/
+mv ~/Downloads/dce9378b4fd1bb16f8835e54106e3e2d.jpg ~/Downloads/dce9378b4fd1bb16f8835e54106e3e2d.jpg
+mv ~/Downloads/dce9378b4fd1bb16f8835e54106e3e2d.jpg ~/Downloads/pfp/
+mv ~/Downloads/29c81eb23006b342cafe4d0abf3a14a8.jpg ~/Downloads/pfp/
+mv ~/Downloads/ec821efa841f462debb2f93c54f7f699.jpg ~/Downloads/pfp/
+mv ~/Downloads/6d835909f9b99d10b11008ae00c7b4c7.jpg ~/Downloads/pfp/
+ping google.com
+poweroff
+doas pacman -Syu
+fastfetch
+clear
+fastfetch
+fastfetch -c all
+doas pacman -Scc<\n>yay -Scc
+fastfetch -c all
+c
+doas pacman -R steam
+doas pacman -R steam steam-native-runtime
+fastfetch
+doas pacman -Rns niri
+doas pacman -Rns openbox
+doas pacman -Rns labwc
+doas pacman -Rns wayfire
+doas pacman -Rns wayfire wf-shell
+nvim wifi
+pkill wine
+pkill proton
+proton
+wine
+fastfetch
+doas pacman -S amberol
+nvim ~/.config/sway/config
+reboot
+poweroff
+c
+nvim ~/.config/sway/config
+poweroff
+c
+nvim ~/.config/starship.toml
+c
+nvim ~/.config/starship.toml
+c
+nvim ~/.config/starship.toml
+fastfetch
+nvim ~/.config/starship.toml
+c
+fastfetch
+c
+clear
+fastfetch
+nvim ~/.config/foot/foot.ini
+c
+nvim ~/.config/starship.toml
+c
+nvim ~/.config/starship.toml
+c
+cd test
+c
+nvim ~/.config/starship.toml
+c
+clear
+c
+nvim ~/.config/starship.toml
+c
+nvim ~/.config/starship.toml
+c
+nvim ~/.config/starship.toml
+c
+nvim ~/.config/starship.toml
+c
+nvim ~/.config/starship.toml
+c
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+c
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+foot --config=/dev/null
+fastfetch
+clear
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+mv ~/.config/foot/foot.ini ~/.config/foot/foot.ini.bak
+nvim ~/.config/foot/foot.ini.bak
+nvim ~/.config/foot/foot.ini
+nvim ~/.config/kitty/kitty.conf
+c
+fastfetch
+nvim /etc/xdg/foot/foot.ini
+fastfetch
+clear
+fastfetch
+c
+fastfetch
+nvim /etc/xdg/foot/foot.ini
+nvim ~/.config/kitty/kitty.conf\
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+c
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+nvim ~/.config/foot/foot.ini
+c
+nvim ~/.config/foot/foot.ini
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+clear
+fastfetch
+c
+fastfetch -c all
+nvim ~/.config/kitty/kitty.conf
+fastfetch -c all
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+c
+fastfetch
+clear
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+clear
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+c
+fastfetch
+nvim ~/.config/kitty/kitty.conf
+fastfetch
+nvim ~/.config/starship.toml
+\
+clear
+c
+clear
+f
+c
+clear
+cd test
+c
+cd
+c
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+rm ~/.config/foot/foot.ini
+mv ~/.config/foot/foot.ini.bak ~/.config/foot/foot.ini
+nvim ~/.config/foot/foot.ini
+nvim ~/.config/starship.toml
+mkdir mainweb
+cd mainweb/
+nvim ~/.config/sway/config
+nvim main.haml
+ls
+main.haml
