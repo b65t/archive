@@ -1,0 +1,5 @@
+@use "./bar/style.scss" as bar-style;
+@use "./notifications/style.scss" as notif-style;
+@use "./applauncher//style.scss" as appl-style;
+
+@import "../../../.cache/wal/colors-ags.scss";
