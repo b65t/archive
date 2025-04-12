@@ -1,0 +1,10 @@
+(defpoll calendar_day :interval "10h" "date '+%d'")
+(defpoll calendar_month :interval "10h" "modules/widgets/scripts/month.sh")
+(defpoll calendar_year :interval "10h" "date '+%Y'")
+
+(defvar popup "")
+(defvar duration "250ms")
+(deflisten notifications :initial "{}" `modules/notifications/scripts/notifications.py`)
+
+(defpoll memory :interval "5s" "modules/bar/scripts/memory.sh")
+(defpoll cpu :interval "5s" "modules/bar/scripts/cpu.sh")
