@@ -1,1 +1,0 @@
-echo "$(whoami), $(uptime -p)"
