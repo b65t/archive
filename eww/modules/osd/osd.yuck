@@ -1,0 +1,32 @@
+(defwindow osd-volume
+  :monitor 0
+  :stacking "overlay"
+  :geometry (geometry :x "35%"
+                      :y "87%"
+                      :width "50px"
+                      :height "50px")
+    (volume-osd-box)
+)
+
+(defwidget volume-osd-box []
+  (box :class "volume-osd-box"
+    (volume-osd)
+  )
+)
+
+(defwidget volume-osd []
+  (box :orientation "h"
+      :space-evenly "false"
+      :class "vol-slider-osd"
+    (overlay
+        (scale :value volume_value
+               :onchange "~/.config/eww/modules/widgets/scripts/vol.sh set {}"
+               :min 0
+               :max 101)
+        (label :class "vol-label-osd"
+               :text "${volume_icon} "
+               :valign "top"
+               :halign "start")
+    )
+  )  
+)
